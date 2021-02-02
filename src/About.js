@@ -8,8 +8,8 @@ const Wrapper = styled.div`
 export const About = () => (
   <Wrapper>
     <h3><b>About Us</b></h3>
-    <p>Supervisor: Vasileios Balafoutis</p>
-    <p>Blockchain Developer 1: Tasologarinis</p>
-    <p>Blockchain Devehaha 2: XristosRrrrr</p>
+    <p>___</p>
+    <p>___</p>
+    <p>___</p>
   </Wrapper>
 )
